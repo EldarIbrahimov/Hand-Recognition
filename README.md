@@ -18,7 +18,7 @@
 
 **Usage**
 
-&nbsp;&nbsp;&nbsp;&nbsp;Run the script to start real-time hand tracking: ```python hand_recognition.py```
+&nbsp;&nbsp;&nbsp;&nbsp;Run the script to start real-time hand tracking: ```python Hand_recognition.py```
 
 &nbsp;&nbsp;&nbsp;&nbsp;Press **Esc** to exit the application.
 
